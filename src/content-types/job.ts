@@ -18,7 +18,7 @@ class Job extends BaseContentType {
 	pay: number;
 
 	// How much the player is paid for time worked.
-	getPay(hourCount: number): number {
+	getPay(/*hourCount*/): number {
 		// TODO implement based off of payment type and hours worked
 		return 0;
 	}
