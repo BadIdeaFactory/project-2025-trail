@@ -20,9 +20,25 @@ Think through:
     - Hope can be personal, OR systemic.
 - Game story arc
 - Asset types
-  - Encounters
-  - Items?
-  -
+  - Events
+  - Legislation
+  - Choices
+  - Items
+    - Food
+    - Medicine
+    - Entertainment
+    - Real Estate
+    - ...?
+  - Goals
+  - Identities
+  - Newspaper articles
+  - Careers
+  - Jobs
+  - Activities
+    - Education
+    - Leisure
+    - Work
+  - Conditions
 - Music / sound
 - Images / art
 - UI / UX -- how is this being presented
