@@ -1,6 +1,6 @@
-import BaseContentType from "./base-content";
+import BaseContentType from './base-content';
 
 // An article represents a newspaper article.
-class Article extends BaseContentType { }
+class Article extends BaseContentType {}
 
 export default Article;
