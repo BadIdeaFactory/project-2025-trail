@@ -1,0 +1,17 @@
+version: 2
+updates:
+  - package-ecosystem: 'npm'
+    directory: '/'
+    schedule:
+      interval: 'monthly'
+    ignore:
+      - dependency-name: 'eslint'
+        update-types: ['version-update:semver-major']
+    groups:
+      everything:
+        patterns:
+          - '*'
+  - package-ecosystem: 'github-actions'
+    directory: '.github/workflows'
+    schedule:
+      interval: 'weekly'
