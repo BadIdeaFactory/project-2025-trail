@@ -1,0 +1,8 @@
+{
+    "id": "test-activity",
+    "scriptPath": "../scripts/test-activity",
+    "uiData": {
+        "description": "an activity for testing",
+        "name": "test activity"
+    }
+}
